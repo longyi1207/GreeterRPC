@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "B2AGtzE7qzaGIESt7t9MLZx4Ixps1R5ip2ju8vUh4PtjiEQZeFYzcyGv79yuA8+TmLN4ppQ0w5fmM1YZiqvd0w==",
+  "success": true,
+  "projectFilePath": "/Users/apple/Desktop/GreeterRPC/GreetRpcServer/GreetRpcServer.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/google.protobuf/3.23.4/google.protobuf.3.23.4.nupkg.sha512",
+    "/Users/apple/.nuget/packages/grpc/2.46.6/grpc.2.46.6.nupkg.sha512",
+    "/Users/apple/.nuget/packages/grpc.core/2.46.6/grpc.core.2.46.6.nupkg.sha512",
+    "/Users/apple/.nuget/packages/grpc.core.api/2.46.6/grpc.core.api.2.46.6.nupkg.sha512",
+    "/Users/apple/.nuget/packages/grpc.tools/2.56.2/grpc.tools.2.56.2.nupkg.sha512",
+    "/Users/apple/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

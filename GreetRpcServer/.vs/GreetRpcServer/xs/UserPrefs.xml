@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C4218118-4CB8-4EFF-B6FD-94FF4C83E206}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GreetRpcServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Server.cs">
+    <Files>
+      <File FileName="Program.cs" Line="12" Column="28" />
+      <File FileName="protobuf.proto" Line="12" Column="37" />
+      <File FileName="GreetRpcServer.csproj" Line="5" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GreetRpcServer" expanded="True">
+            <Node name="GreetRpcServer" expanded="True">
+              <Node name="ConnectedServicesFolder" expanded="True" />
+              <Node name="Server.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
