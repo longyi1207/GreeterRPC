@@ -5,6 +5,7 @@ import (
 	"log"
 	"time"
 	"google.golang.org/grpc"
+	"os"
 )
 
 const (
@@ -21,8 +22,14 @@ func main() {
 	defer conn.Close()
 	c := NewGreeterClient(conn)
 
-	// Contact the server and print out its response.
+	// name
 	name := defaultName
+
+	if len(os.Args) > 1 {
+		name = os.Args[1]
+	}
+
+	// Contact the server and print out its response.
 	ctx, cancel := context.WithTimeout(context.Background(), time.Second)
 	defer cancel()
 	r, err := c.SayHello(ctx, &HelloRequest{Name: name})

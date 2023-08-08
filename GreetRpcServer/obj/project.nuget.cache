@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B2AGtzE7qzaGIESt7t9MLZx4Ixps1R5ip2ju8vUh4PtjiEQZeFYzcyGv79yuA8+TmLN4ppQ0w5fmM1YZiqvd0w==",
+  "dgSpecHash": "Z+vVTQuN4Eu3qKmWUOGamjFKPUZND+C5geC7zKjimBqitBjSz2XLsgoMX965Gr2p4U0lUfWNpV393+8fwThX4Q==",
   "success": true,
-  "projectFilePath": "/Users/apple/Desktop/GreeterRPC/GreetRpcServer/GreetRpcServer.csproj",
+  "projectFilePath": "/Users/apple/Desktop/projects/GreeterRPC/GreeterRPC/GreetRpcServer/GreetRpcServer.csproj",
   "expectedPackageFiles": [
     "/Users/apple/.nuget/packages/google.protobuf/3.23.4/google.protobuf.3.23.4.nupkg.sha512",
     "/Users/apple/.nuget/packages/grpc/2.46.6/grpc.2.46.6.nupkg.sha512",

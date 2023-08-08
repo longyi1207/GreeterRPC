@@ -268,11 +268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/apple/Desktop/GreeterRPC/GreetRpcServer/GreetRpcServer.csproj",
+      "projectUniqueName": "/Users/apple/Desktop/projects/GreeterRPC/GreeterRPC/GreetRpcServer/GreetRpcServer.csproj",
       "projectName": "GreetRpcServer",
-      "projectPath": "/Users/apple/Desktop/GreeterRPC/GreetRpcServer/GreetRpcServer.csproj",
+      "projectPath": "/Users/apple/Desktop/projects/GreeterRPC/GreeterRPC/GreetRpcServer/GreetRpcServer.csproj",
       "packagesPath": "/Users/apple/.nuget/packages/",
-      "outputPath": "/Users/apple/Desktop/GreeterRPC/GreetRpcServer/obj/",
+      "outputPath": "/Users/apple/Desktop/projects/GreeterRPC/GreeterRPC/GreetRpcServer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/apple/.nuget/NuGet/NuGet.Config"
